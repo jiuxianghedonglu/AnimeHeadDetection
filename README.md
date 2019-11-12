@@ -46,7 +46,7 @@ All the images in the dataset are collected from [konachan.net](https://konachan
 ![alt text](demo/demo5.jpg)
 
 ### 2.4 Detecting video
-1. You can download [pretrained model weights]() and put into ``` checkpoints/weights ``` or train it by yourself. 
+1. You can download [pretrained model weights](https://pan.baidu.com/s/1Mw9aulKGuFJesIsbcFfxhQ) and put into ``` checkpoints/weights ``` or train it by yourself. 
 2. run ``` python detect_video.py your_video_path ```
 3. Example:
 [alt text](demo/tianshi.mp4)
